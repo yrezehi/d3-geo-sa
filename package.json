@@ -4,7 +4,8 @@
   "description": "1- Get data map from http://www.diva-gis.org/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"convert": "shp2json SAU_adm1.shp -o saudi.json"
   },
   "author": "",
   "license": "ISC",
