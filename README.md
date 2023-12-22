@@ -2,5 +2,5 @@
 
 ## Procedure
 
-1- Get data map from http://www.diva-gis.org/
-2- Run `npm start convert`
+- Get data map from http://www.diva-gis.org/
+- Run `npm start convert`
