@@ -1,0 +1,14 @@
+{
+  "name": "d3-geo-sa",
+  "version": "1.0.0",
+  "description": "1- Get data map from http://www.diva-gis.org/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shapefile": "^0.6.6"
+  }
+}
